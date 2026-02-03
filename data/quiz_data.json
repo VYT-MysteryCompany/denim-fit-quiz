@@ -1,0 +1,51 @@
+{
+  "discount_code": "DENIMFIT10",
+  "shop_url": "https://milanodirouge.com",
+  "fits": [
+    {
+      "name": "Halo",
+      "personality": "I feature a mid-waist design with an edgy distressed finish and a flattering ankle-cut silhouette. I'm the perfect fit for the bold trendsetter who loves to make a statement effortlessly.",
+      "image_url": "assets/fits/halo.png"
+    },
+    {
+      "name": "Heidi",
+      "personality": "I offer a high-waist skinny leg with extra length for tall beauties who want that sleek, elongated look. I'm the perfect fit for the confident woman who demands both comfort and sophistication.",
+      "image_url": "assets/fits/heidi.png"
+    },
+    {
+      "name": "La Reve",
+      "personality": "I have a mid-waist cut in a rich dark wash with tall-girl friendly inseam for maximum versatility. I'm the perfect fit for the minimalist who values timeless style and all-day comfort.",
+      "image_url": "assets/fits/lareve.png"
+    },
+    {
+      "name": "Hana",
+      "personality": "I feature a mid-waist rise with distressed detailing and an ankle-cut hem for that lived-in cool-girl vibe. I'm the perfect fit for the free spirit who effortlessly blends comfort with street-style edge.",
+      "image_url": "assets/fits/hana.png"
+    },
+    {
+      "name": "Heather",
+      "personality": "I offer a high-waist skinny leg with strategic distressing and tall-girl friendly length for ultimate drama. I'm the perfect fit for the fashion-forward woman who isn't afraid to stand out.",
+      "image_url": "assets/fits/heather.png"
+    },
+    {
+      "name": "Harper",
+      "personality": "I have a mid-waist girlfriend fit with subtle distressing and a relaxed silhouette that flatters every curve. I'm the perfect fit for the laid-back trendsetter who wants effortless style without sacrificing comfort.",
+      "image_url": "assets/fits/harper.png"
+    },
+    {
+      "name": "Rari",
+      "personality": "I feature a boyfriend-baggy fit with distressed details and a tall-people friendly cut for that borrowed-from-your-bae look. I'm the perfect fit for anyone who loves relaxed, gender-neutral style with an edge.",
+      "image_url": "assets/fits/rari.png"
+    },
+    {
+      "name": "Wax Ramiro",
+      "personality": "I offer a sleek black skinny fit with distressed accents and tall-people friendly length for maximum versatility. I'm the perfect fit for the bold individual who wants a go-to staple that works day or night.",
+      "image_url": "assets/fits/wax_ramiro.png"
+    },
+    {
+      "name": "Capo Italian",
+      "personality": "I have a dark wash skinny fit with tall-people friendly inseam for that polished, European-inspired aesthetic. I'm the perfect fit for the sophisticated soul who appreciates premium quality and timeless design.",
+      "image_url": "assets/fits/capo_italian.png"
+    }
+  ]
+}
