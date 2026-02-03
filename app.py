@@ -108,13 +108,18 @@ st.markdown("""
     }
     
     .main-title {
-    font-family: 'Playfair Display', serif;
-    font-size: 4.5rem;
-    font-weight: 900;
-    text-align: center;
-    margin-bottom: 0.5rem;
-    padding-top: 0.2rem;
-    line-height: 1.2;
+        font-family: 'Playfair Display', serif;
+        font-size: 4.5rem;
+        font-weight: 900;
+        text-align: center;
+        margin-bottom: 0.5rem;
+        padding-top: 0.2rem;
+        line-height: 1.2;
+        letter-spacing: -0.02em;
+        color: #1a1a1a;
+        text-transform: uppercase;
+    }
+    
     .subtitle {
         font-family: 'Inter', sans-serif;
         font-size: 1rem;
